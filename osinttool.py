@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Enhanced Interactive OSINT Search Tool
-A comprehensive tool for gathering information about individuals from public sources.
-Designed for legitimate privacy removal services and personal data management.
-"""
-
 import requests
 import re
 import webbrowser
