@@ -71,13 +71,13 @@ pip install -r requirements.txt
 Run the tool in interactive mode where you'll be prompted for all required information:
 
 ```bash
-python testfile2.py --interactive
+python osinttool.py --interactive
 ```
 
 or simply:
 
 ```bash
-python testfile2.py
+python osinttool.py
 ```
 
 ### Command-Line Arguments
