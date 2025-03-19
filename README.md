@@ -126,17 +126,17 @@ python testfile2.py --name "John Doe" --email "john@example.com" --phone "555-12
 
 Basic search with name only:
 ```bash
-python testfile2.py --name "John Smith"
+python osinttool.py --name "John Smith"
 ```
 
 Comprehensive search with multiple data points:
 ```bash
-python testfile2.py --name "John Smith" --email "john.smith@example.com" --phone "555-123-4567" --username "jsmith" --employer "ACME Corporation" --all
+python osinttool.py --name "John Smith" --email "john.smith@example.com" --phone "555-123-4567" --username "jsmith" --employer "ACME Corporation" --all
 ```
 
 Custom output file in text format:
 ```bash
-python testfile2.py --name "John Smith" --output "smith_results" --format txt
+python osinttool.py --name "John Smith" --output "smith_results" --format txt
 ```
 
 ## Understanding the Results
